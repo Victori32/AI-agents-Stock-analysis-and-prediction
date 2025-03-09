@@ -35,8 +35,7 @@ This system uses **multi-agent collaboration** to provide deep financial insight
 
 1️⃣ Clone the repository:
 ```bash
- [git clone https://github.com/yourusername/multi-agent-financial-ai.git](https://github.com/Victori32/AI-agents-Stock-analysis-and-prediction.git)
- cd multi-agent-financial-ai
+ https://github.com/Victori32/AI-agents-Stock-analysis-and-prediction.git
 ```
 
 2️⃣ Install dependencies:
