@@ -1,0 +1,6 @@
+crewai==0.28.8
+crewai[tools]
+langchain_community==0.0.38
+python-dotenv==1.0.0
+openai==1.13.3
+requests
