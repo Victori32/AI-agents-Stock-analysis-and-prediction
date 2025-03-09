@@ -46,6 +46,7 @@ This system uses **multi-agent collaboration** to provide deep financial insight
 
 3️⃣ Set up API keys in `.env`:
 ```env
+OPENAI_API_KEY=your_key_here
 SERPER_API_KEY=your_key_here
 ```
 
@@ -81,13 +82,6 @@ SERPER_API_KEY=your_key_here
 - 📊 More advanced ML models for better accuracy
 - 🤖 Voice & Chatbot integration for instant queries
 
-## 📝 Contributing
-
-🚀 We welcome contributions! Feel free to submit issues, PRs, or feature requests.
-
-## 📄 License
-
-MIT License – Use, modify, and share freely! 🎉
 
 
 
