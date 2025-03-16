@@ -1,6 +1,6 @@
-# 📈 Multi-Agent AI Financial Analysts with CrewAI & LangChain 🚀
+p# 📈 Multi-Agent AI Financial Analysts with CrewAI & LangChain 🚀
 
-Welcome to the **Multi-Agent AI Financial Analysts Orchestration**! 🤖💰 This project leverages **CrewAI** and **LangChain** to create a team of AI-powered analysts that analyze and predict stock prices 📊. 
+Welcome to the **Multi-Agent AI Financial Analysts**! 🤖💰 This project leverages **CrewAI** and **LangChain** to create a team of AI-powered analysts that analyze and predict stock prices 📊. 
 
 ## 🎯 Project Overview
 
